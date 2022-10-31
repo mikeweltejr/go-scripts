@@ -1,0 +1,4337 @@
+[
+    {
+        "Name": "Goodfellas",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Gone Baby Gone",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "House of Dragon",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Succession",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Last Week Tonight with John Oliver",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Beetlejuice",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Blade Runner 2049",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Atomic Homefront",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Arbitrage",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Mind over Murder",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Endangered",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Rich & Shameless",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Card Counter",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Janes",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Angels & Demons",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Da Vinci Code",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Fantastic Beasts: The Secrets of Dumbledore",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Navalny",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Rugrats Movie",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Staircase",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Brothers by Blood",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Survivor",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "We Own This City",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "I Love You, Now Die",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Flight Attendant",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Hobbit: The Battle of the Five Armies",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Hobbit: The Desolation of Smaug",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Hobbit: An Unexpected Journey",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Batman",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Not So Pretty",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Forever Purge",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Winning Time: The Rise of the Lakers Dynasty",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Invisible Pilot",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Undercurrent: The Disappearance of Kim Wall",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Gaming Wall St",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Dune",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Free Guy",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Icahn: The Restless Billionaire",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Murder of Fred Hampton",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Euphoria",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Righteous Gemstones",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Harry Potter 20th Anniversary: Return to Hogwarts",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Hitman's Wife's Bodyguard",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Going the Distance",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Matrix: Resurrections",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Forever Prisoner",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Murders at Starved Rock",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Station Eleven",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Killing of Kenneth Chamberlain",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "King Richard",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Simple as Water",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "A Choice of Weapons: Inspired by Gordon Parks",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Dark Knight",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Iceman Confessions: Secrets of a Mafia Hitman",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Step by Step",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Promising Young Woman",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Way Down: God, Greed, and the Cult of Gwen Shambling",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "It",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Many Saints of Newark",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Level Playing Field",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Soul of America",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Perfect Weapon",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Malignant",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Our Towns",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "In the Same Breath",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Titans",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "News of the World",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Reminiscence",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Hangover Part II",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Hangover",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Jurassic Park III",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Lost World: Jurassic Park",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Jurassic Park",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Horrible Bosses",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Suicide Squad",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Catch and Kill: The Podcast Tapes",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "No Sudden Move",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Wedding Singer",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Sherlock Holmes",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Lucy the Human Chimp",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Rush Hour",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Rush Hour 2",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Anger Management",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Matrix",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Matrix Reloaded",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Matrix: Revolutions",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Wizard of Lies",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Nevers",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Exterminate All the Brutes",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Inception",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Persona: The Dark Truth Behind Personality Tests",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Banshee",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Dunkirk",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Crazy, Not Insane",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Tiger",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Plot Against America",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Training Day",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Next Friday",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Friday",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Wonder Woman 1984",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Agents of Chaos",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Kill Chain: The Cyber War on America's Election",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Bored to Death",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Vow",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Big Little Lies",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Looney Tunes",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Smurfs",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Into the Storm",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Einstein and Eddington",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Lord of the Rings: The Fellowship of the Ring",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Dirty War",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Departed",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Yogi Bear",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Wedding Crashers",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Scoob",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "South Park",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Wonder Woman",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "True Detective",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Sopranos",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Scooby-Doo Show",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Scooby-Doo Where Are You",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Jetsons",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Game of Thrones",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Flinstones",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Avenue 5",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Impractical Jokers: Inside Jokes",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "His Dark Materials",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Outsider",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Chernobyl",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Eastbound & Down",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Veep",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Stuart: A Life Backwards",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Scooby-Doo 2: Monsters Unleashed",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Scooby-Doo",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "On the Record",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Harold & Kumar Go to White Castle",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Fahrenheit 451",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Eagle Eye",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Cries from Syria",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Citizen Kane",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Looney Tunes Cartoons",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Love Life",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Fresh Prince of Bel-Air",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Four Christmases",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "12 Years a Slave",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "13 Going on 30",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "12th & Delaware",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "2 Guns",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "21 & Over",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "28 Days Later",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "28 Weeks Later",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "3:10 to Yuma",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "38 At The Garden",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "40 Days and 40 Nights",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "40 Years a Prisoner",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "42",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "47 Ronin",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "5 American Handguns 5 American Kids",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "6 Days to Air: The Making of South Park",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "61*",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "8-Bit Christmas",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "About Face Supermodels Then and Now",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Absolute Power",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Accused",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Across the Universe",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Act of Valor",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Adderall Diaries",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Addiction",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Adventures of Tintin",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "After the Sunset",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Against the Ropes",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Against the Wall",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "All My Life",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "All The President's Men",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "All the Pretty Horses",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "All the Way",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Along Came a Spider",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Alternate Endings: Six New Ways to Die in America",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Alvin and the Chipmunks",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Amaraica",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "American Pastoral",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "American Splendor",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Amy",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Analyze That",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Analyze This",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "And the Band Played On",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Andre the Giant",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Annabelle",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Annabelle Comes Home",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Any One of Us",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Apollo",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "An Apology To Elephants",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Argo",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Armageddon",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Arsenal",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Art of Political Murder",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "At Close Range",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "At First Sight",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "At Last",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "At the Heart of Gold",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Atonement",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Austin Powers Goldmember",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Austin Powers International Man of Mystery",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Austin Powers The Spy Who Shagged Me",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Australia",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Aviator",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Babe Ruth",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Babylon A.D.",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Backstabbing for Beginners",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Bad Education",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Bad News Bears",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Bad News Bears",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Bad Teacher",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Balls Out",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Bank Job",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Banksy Dear New York",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Barry Lyndon",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Batman Begins",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Batman Forever",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Beach Bum",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Beach Rats",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Becoming Mike Nichols",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Becoming Warren Buffet",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Bee Gees How Can You Mend a Broken Heart",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Bee Movie",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Before I Fall",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Before Mickey Mouse A History of American Animation",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Before Midnight",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Being There",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Belichick & Saban The Art of Coaching",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Best Man Holiday",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Between the World And Me",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Betrayal of Attica",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Beware the Slenderman",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Bicycle Thieves",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Big Chill",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Big City",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Big Game",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Biker Boyz",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Birds of Prey",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Black Hawk Down",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Bleed Out",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Blind Side",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Blood Simple",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Blood Ties",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Blow Out",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Blue Velvet",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Body Brokers",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Bodyguard",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Book Thief",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Boomerang",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Borat",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Border",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Borg vs McEnroe",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Bottle Rocket",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Bourne Identity",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Bourne Supremacy",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Boy Erased",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Boy Interrupted",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Boycott",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Braveheart",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Break-Up",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "A Brief History of Time",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Bringing Down the House",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Bringing Out the Dead",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Brood",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Bug",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Bully Coward Victim the Story of Roy Cohn",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Bury my Heart at Wounded Knee",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Bushwhacked",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Butch Cassidy & Sundance Kid",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Butterfly Effect",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "By Design the Joe Caroff Story",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Cadillac Man",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Call me by Your Name",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Cameraperson",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Capote",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Captive",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Capturing Mary",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Capturing the Friedmans",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Casablanca",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Case Against 8",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Catch a Fire",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Cellular",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Charlie and the Chocolate Factory",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Charlie St Cloud",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Chef",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Cheshire Murders",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Child 44",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "CitizenX",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "City Dump",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Clash of the Titans",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Class Action Park",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Class Divide",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Clear History",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Clearing",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Cold Blue",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "College",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Color Purple",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Colors",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Coming to America",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Command",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Con is On",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Conan",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Coneheads",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Confidence",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Conjuring",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Conjuring 2",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Conspiracy",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Constantine",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Cop Land",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Cop Out",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Counselor",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Crash",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Crazy Stupid Love",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "A Cry in the Dark",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Cypher",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Daddy Day Care",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Dances with Wolves",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "A Dangerous Son",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Dark Half",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Dark Knight Rises",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Dark Light The Act of Blind Photography",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Dark Places",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Dating Amber",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "David Bowie The Last Five Years",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Day After Tomorrow",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Day Sports Stood Still",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Daybreak",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Daybreakers",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Superpets",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Dead Silence",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Dead Zone",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Deadwood the Movie",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Death of the Nile",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Deception",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Deep Down",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Deep Impact",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Delivery Man",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Diagnosis Bipolar",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Dinner with Friends",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Diplomat",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "District 9",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Divergent",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Allegiant",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Insurgent",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Doc Hollywood",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Doctor Dolittle",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Doctor Sleep",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Dodgeball",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Donnie Darko",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Dope Sick Love",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Double Jeopardy",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Down Terrace",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Down with Love",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "How the Grinch Stole Christmas",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Dragged Across Concrete",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Dragon Blade",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Dreamland the Burning of Black Wall Street",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Dude Where's My Car",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Due Date",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Dune",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Dying Young",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Elf",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Elvis",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The End of the Tour",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Ender's Game",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Enemy",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "An Enemy of the People",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Enemy Within",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The English Patient",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Ernie & Joe Crisis Cops",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Escape from Kabul",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Ethel",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Europa",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Ex Machina",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Exorcist",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Extraction",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Extremely Loud Incredibly Close",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Eye",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Faculty",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Fair Game",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Fake Famous",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Falcon and the Snowman",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Fall to Grace",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Fallout",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Fantastic Beasts and where to Find Them",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Fantastic Beasts the Crimes of Grindelwald",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Fantastic Voyage",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Fast and Furious 6",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Fast and Furious 9",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Father of the Bride",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Fault in our Stars",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Fighting",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Final Cut",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Final Destination",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Final Destination 2",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Final Destination 3",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Final Destination 5",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Fire with Fire",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Fireboys",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Firm",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Fog",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Fools Rush In",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Four Weddings and a Funeral",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Frailty",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Freedomland",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Freeheld",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Friday",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Friday after Next",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Friday the 13th",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "From Hell",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Full Monty",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Funny Games",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Garden State",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Garfield the Movie",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Garfield a Tale of Two Kitties",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Gathering Storm",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Ghost Town",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Gift",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Glory",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Good Will Hunting",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Goonies",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Grand Budapest Hotel",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Gravity",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Green Lantern",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Green Mile",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Greenland",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Gridiron Gang",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Guess Who",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Hall Pass",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Happening",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Happy Feet",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Happy Feet Two",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Hard as Nails",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Hard Rain",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Hart's War",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "He's Just Not That Into You",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Head Office",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Heartbreak Kid",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Help",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Heroin Cape Cod, USA",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "High Anxiety",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Hitcher",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Hollow Man",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Homegrown: The Counter-Terror Dilemma",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Homeless: The Motel Kids of Orange County",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Hoop Dreams",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Hoosiers",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Hostel",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Hot Tub Time Machine",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Hot Summer Nights",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Hotel Mumbai",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Hotel Rwanda",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "House of Saddam Part 1",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "House of Saddam Part 2",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "House of Saddam Part 3",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "House of Saddam Part 4",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Hugo",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "I Am Legend",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "I Robot",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Immortal",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Importance of Being Earnest",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Impossible",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Impractical Jokers Movie",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "In Other Words",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "In the Fade",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Inception",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Indictment The McMartin Trial",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Inventor",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "It Chapter Two",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "It Happened on 5th Avenue",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "It Will be Chaos",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Jack Frost",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Jack the Giant Slayer",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Jane Fonda in Five Acts",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Jerry Maguire",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Jeff who Lives at Home",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "JFK",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Rainmaker",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Joker",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Journey to the Center of the Earth",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Judgement",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Juno",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Jumper",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Kick-Ass",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Kick-Ass 2",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Killer Elite",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Killers",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Kin",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "A Kind of Murder",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The King's Man",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Kiss the Girls",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Kung Fu Panda",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Land",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Lara Croft Tomb Raider",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Lara Croft Tomb Raider The Cradle of Life",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Larame Project",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Larry Crowne",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Last Duel",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Last Night in Soho",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Last Truck: Closing of a GM Plant",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Late Shift",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Legend of Hercules",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Legend of Zorro",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Lego Batman Movie",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Lets Be Cops",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Lincoln Lawyer",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Limitless",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Lions for Lambs",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Little Black Book",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Little Miss Sunshine",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Little Shop of Horrors",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Locke",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Lone Survivor",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Lord of the Rings The Return of the King",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Lord of the Rings The Two Towers",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Lord of War",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Losers",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Love & Basketball",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Lure",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Macbeth",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Machine Gun Preacher",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Mad Max Fury Road",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Magic Mike",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Magic Mike XXL",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Maid in Manhattan",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Man of the House",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Manhunt",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Mary and Martha",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Master and Commander",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Master of Disguise",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Meet the Donors",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Menace II Society",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Miami Vice",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Midnight Family",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Misery",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Miss Congeniality",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Miss Congeniality 2 Armed and Fabulous",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Missing",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Mob Stories",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Mojave",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Mona Lisa Smile",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Monster in Law",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Monster's Ball",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Moonfall",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Mortal Kombat",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Mortal Kombat Annihilation",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "A Most Violent Year",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Mule",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "My Best Friends Girl",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "My Boss's Daughter",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "My Cousin Vinny",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "My Life in Ruins",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Mystic Pizza",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Napoleon Dynamite",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Navy Seals",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Neverending Story",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Neverending Story II",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The New Guy",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Next Three Days",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Night House",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Nightcrawler",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Nightmare Alley",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "No Country for Old Men",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Cross the Line",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Nobody",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Non-Stop",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Normal Heart",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Nostalgia",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Notebook",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Now and Then",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Obvious Child",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Odd Jobs",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "O.G.",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Old",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "On The Waterfront",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Once Upon a Time in Brooklyn",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "One for the Money",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "One Nation Under Stress",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Open Season",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Open Season 2",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Order",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Original Sin",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Osio",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Other Woman",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Outbreak",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Outsiders",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Overboard",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Pacific Rim",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Paterno",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Path to War",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Pentagon Wars",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Perfect Host",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Perfect Storm",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Perfect Stranger",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Piter",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Plastic Disasters",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Player",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Please Hold",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Polar Express",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Practical Magic",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Profile",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Promise Land",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Pulp Fiction",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Rain Man",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Real Steel",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Red",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Red 2",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Red Eye",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Remember",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Remember Me",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Replacements",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Return to House on Haunted Hill",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Ricochet",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Ride Along",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Risky Business",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Rite",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Robin Hood",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Rocker",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Rocket Science",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Room",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Ron's Gone Wrong",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Rugrats Go Wild",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Rugrats Paris",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Ruins",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Rules of Engagement",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Runaway Train",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Runner Runner",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Sabotage",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Safe",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Savages",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Scenes from a Marriage",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Scheme",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "School Ties",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Secret Garden",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Secret Life of Walter Mitty",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Secrets and Lies",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Semi-Pro",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Sex and the City Movie",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Sex and the City 2",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Shadowdancer",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Shawshank Redemption",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "She's All That",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Sherlock Holmes A Game of Shadows",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Sideways",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Sinner",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "A Simple Plan",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Sisterhood of the Traveling Pants",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Sisterhood of the Traveling Pants 2",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Six Degrees of Separation",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Sleepers",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Sleeping with the Enemy",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Slumdog Millionaire",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Smart People",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Snakes",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Snakes on a Plane",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Snitch",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Snow Day",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Snowman",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Solaris",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Son of a Gun",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Source Code",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Space Jam",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Special Relationship",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Spectacular Now",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Spielberg",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Spotlight",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Spy Kids",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Spy Kids 2",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Spy Kids 3",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "St Elmo's Fire",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Stalker",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Starsky and Hutch",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Stuck on You",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Student Athlete",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Sublet",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Suite Francaise",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Surrogates",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "S.W.A.T",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Swingers",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Switch",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Switch",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Taking of Pelham 123",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Tale",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Teenage Mutant Ninja Turtles",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Teenage Mutant Ninja Turtles II",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Terminator 2 Judgement Day",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Terminator 3 Rise of the Machines",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Terminator Salvation",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Terms of Endearment",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "That Awkward Moment",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Thirteenth Floor",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "This is Where I Leave You",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "A Time to Kill",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "TMNT",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Too Big to Fail",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Total Recall",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Transcendence",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Troy",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Trouble with the Curve",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Truman Show",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Twisted",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Two Faces of January",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Two Girls and a Guy",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Unbroken",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Unaccompanied Minors",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Under the same Moon",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Under the Skin",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Undocumented Lawyer",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Uninvited",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "One For All",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Untouchables",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Veronica Mars",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Voyagers",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Waist Deep",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "War",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Warrior",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Water Horse Legend of the Deep",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "We're the Millers",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "What Happens in Vegas",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "What Lies Beneath",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "What's Eating Gilbert Grape",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "When Harry Met Sally",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "White Eye",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "White Mile",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Wicker Park",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Wild Hogs",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Wild Thornberry Movie",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Willy Wonka and the Chocolate Factory",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Witch",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Wolf",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Wolverine",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The Wrestler",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "The World's End",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "XXX",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Yogi Bear",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "You Don't Know Jack",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "You Keep the Kids",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "You, Me and Dupree",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "Young Adult",
+        "StreamingService": "HBO_Max",
+        "Type": "Movie"
+    },
+    {
+        "Name": "100 Foot Wave",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "101 Places to Party Before you Die",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Abbott Elementary",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Alienist",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Anarchist",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Autopsy",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Avenue 5",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Axios",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Bachelor",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Bachelor in Paradise",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Bachelorette",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Ballers",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Band of Brothers",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Banshee",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Barry",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Being Sernea",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Big Bang Theory",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Big Love",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Blinded by the Lights",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Blue Planet",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Blue Planet II",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Boardwalk Empire",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Carbonaro Effect",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Chapelle's Show",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Chris Rock Show",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Chuck",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Cleaning Lady",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Closer",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Cold Case",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Comeback",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Cost of Winning",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Craftsman",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Crashing",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Crime of the Century",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Deadwood",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Divorce",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Dream Raider",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Dynasties",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Enlightened",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Family Matters",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Fast Foodies",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Family Tree",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Fixer Upper",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Friends",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Full House",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Frozen Planet",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Girl Before",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Golden Life",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Good Behavior",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Gotham",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Gunpowder",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Hack my Life",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Hacks",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Happy Endings",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Harry Potter Hogwarts Tournament Houses",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Dead",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Head of the Class",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Hello Ladies",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "High Maintenance",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "How to Make it in America",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "How to Screw it all Up",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Hung",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "I Know This Much is True",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "I'll Be Gone in the Dark",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "I'm Sorry",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Industry",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Investigation",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Leftovers",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Lovecraft Country",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Luck",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Made for Love",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Major Crimes",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Mare of Eastown",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Mentalist",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Men of a Certain Age",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Middle",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Mike & Molly",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Mildred Pierce",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Miracle Workers",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Nathan for You",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Nature's Great Events",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Nevers",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Newsroom",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Night Of",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The OC",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Oh Hell",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "On the Spectrum",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "One Tree Hill",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Other Parents",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "One Perfect Shot",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Other Two",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Pacific",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Pakt",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "OZ",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Paid Off",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Pennyworth",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Perry Mason",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Phoenix Rising",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Planet Earth",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Planet Earth II",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Prodigal Son",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Project Greenlight",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Q: Into the Storm",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Real Sports",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Rehearsal",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Saving the King",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Sharp Objects",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Silicon Valley",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Smurfs",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "State of Play",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Tenacious D",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Tiger",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Time Traveler's Wife",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Trueblood",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Undoing",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Vice Principals",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Walker",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Wasteland",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The West Wing",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "What I Like About You",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The White Lotus",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Whose Line is it Anyway?",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Wipeout",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Wire",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "Without a Trace",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    },
+    {
+        "Name": "The Young Pope",
+        "StreamingService": "HBO_Max",
+        "Type": "TV"
+    }
+]
