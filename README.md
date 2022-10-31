@@ -1,1 +1,1 @@
-# simplify-streaming
+# go-scripts
